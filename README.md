@@ -1,5 +1,7 @@
 # python-video-downloader
 read!!!!!
+install python di python.org
+lalu jalankan command ini di terminal
 
 sudo apt install python3
 
