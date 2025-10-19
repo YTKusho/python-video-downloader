@@ -1,4 +1,5 @@
 # python-video-downloader
+udah terbengkalai cari punya orang aja
 read!!!!!
 install python di python.org
 lalu jalankan command ini di terminal
@@ -14,3 +15,4 @@ or
 pip install python3-tk
 
 pip install yt-dlp
+
